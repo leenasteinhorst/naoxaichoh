@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phiexeiroh.kaoriha.org/sitemap.xml
